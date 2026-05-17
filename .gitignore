@@ -32,3 +32,9 @@ xcuserdata/
 .DS_Store
 
 xxt-swift/Sources/XXTTest/*.html
+
+# .NET / Windows project
+HomeworkToDo.Windows/**/bin/
+HomeworkToDo.Windows/**/obj/
+HomeworkToDo.Windows/**/*.user
+HomeworkToDo.Windows/**/publish/
